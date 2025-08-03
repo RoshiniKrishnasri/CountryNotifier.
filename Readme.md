@@ -1,4 +1,4 @@
-Title:Country Notifier
+Title:Country Notifier 
 
 Short description: Here by using the python script we can get all the information about any country by using countryinfo library and getting capital , border, currency ,area ,time zone ,population and all the things.
 
